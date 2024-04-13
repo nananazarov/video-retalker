@@ -1,0 +1,1 @@
+docker build --pull --rm -f "Dockerfile" -t justtest:0.6
